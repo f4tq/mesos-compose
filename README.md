@@ -13,6 +13,7 @@ screwed cluster state or something.
 * Mesos 1.0.1
 * Marathon 1.3.0
 * Chronos 2.4.0 (optional)
+* Metronome 0.1.9 
 
 Note that you need `docker-compose` 1.6.0 or newer:
 
